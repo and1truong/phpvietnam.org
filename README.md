@@ -12,4 +12,4 @@ Open <http://localhost:8000>.
 
 ## Deployment
 
-Publish the repository's `master` branch from `/` with GitHub Pages. The `CNAME` file declares `phpvietnam.org`; configure the apex and `www` records in Cloudflare according to [GitHub Pages custom domain guidance](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site).
+Publish the repository's `main` branch from `/` with GitHub Pages. The `CNAME` file declares `phpvietnam.org`; configure the apex and `www` records in Cloudflare according to [GitHub Pages custom domain guidance](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site).
